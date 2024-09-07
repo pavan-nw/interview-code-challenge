@@ -12,6 +12,9 @@ import java.util.List;
 import java.util.Map;
 import java.util.stream.Collectors;
 
+/**
+ * Cache manager
+ */
 public class SummaryCacheManager {
 
     public static void buildCache(List<Summary> summaryList) {
