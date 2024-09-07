@@ -1,0 +1,8 @@
+./idea
+
+/bloomreach-interview/out
+/unibuddy-interview-challenge/out
+
+./*/.iml
+/bloomreach-interview/bloomreach-interview.iml
+/unibuddy-interview-challenge/unibuddy-interview-challenge.iml
